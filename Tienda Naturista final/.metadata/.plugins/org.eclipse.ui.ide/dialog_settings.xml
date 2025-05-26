@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="installedFeatures">
+		<item value="org.eclipse.egit:6.8.0.202311291450-r"/>
+		<item value="org.eclipse.emf.common:2.34.0.v20241204-1554"/>
+		<item value="org.eclipse.emf.ecore:2.39.0.v20241018-1213"/>
+		<item value="org.eclipse.help:2.3.1600.v20231201-0110"/>
+		<item value="org.eclipse.jgit.gpg.bc:6.8.0.202311291450-r"/>
+		<item value="org.eclipse.jgit.http.apache:6.8.0.202311291450-r"/>
+		<item value="org.eclipse.jgit.ssh.apache:6.8.0.202311291450-r"/>
+		<item value="org.eclipse.jgit:6.8.0.202311291450-r"/>
+		<item value="org.eclipse.m2e.feature:2.4.200.20231119-0901"/>
+		<item value="org.eclipse.m2e.logback.feature:2.2.1.20231113-2319"/>
+		<item value="org.eclipse.mylyn.builds.feature:4.1.0.v20231009-0014"/>
+		<item value="org.eclipse.mylyn.commons.feature:4.1.0.v20231125-1125"/>
+		<item value="org.eclipse.mylyn.commons.identity.feature:4.1.0.v20231009-0014"/>
+		<item value="org.eclipse.mylyn.commons.notifications.feature:4.1.0.v20231009-0014"/>
+		<item value="org.eclipse.mylyn.commons.repositories.feature:4.1.0.v20231125-1125"/>
+		<item value="org.eclipse.mylyn.context.feature:4.1.0.v20231102-0301"/>
+		<item value="org.eclipse.mylyn.egit.feature:4.1.0.v20231009-0014"/>
+		<item value="org.eclipse.mylyn.git.feature:4.1.0.v20231125-1125"/>
+		<item value="org.eclipse.mylyn.github.feature:6.4.0.v20231125-1125"/>
+		<item value="org.eclipse.mylyn.ide.feature:4.1.0.v20231009-0014"/>
+		<item value="org.eclipse.mylyn.jdt.feature:4.1.0.v20231009-0014"/>
+		<item value="org.eclipse.mylyn.jenkins.feature:4.1.0.v20231009-0014"/>
+		<item value="org.eclipse.mylyn.monitor.feature:4.1.0.v20231009-0014"/>
+		<item value="org.eclipse.mylyn.reviews.feature:4.1.0.v20231125-1125"/>
+		<item value="org.eclipse.mylyn.tasks.feature:4.1.0.v20231125-1125"/>
+		<item value="org.eclipse.mylyn.team.feature:4.1.0.v20231009-0014"/>
+		<item value="org.eclipse.mylyn.versions.feature:4.1.0.v20231009-0014"/>
+		<item value="org.eclipse.mylyn.wikitext.editors_feature:3.0.48.202308291007"/>
+		<item value="org.eclipse.mylyn.wikitext_feature:3.0.48.202308291007"/>
+		<item value="org.eclipse.oomph.p2:1.29.0.v20240120-1356"/>
+		<item value="org.eclipse.oomph.setup.core:1.30.0.v20240211-0940"/>
+		<item value="org.eclipse.oomph.setup:1.31.0.v20240211-0940"/>
+		<item value="org.eclipse.platform:4.30.0.v20231201-0512"/>
+		<item value="org.eclipse.rcp:4.30.0.v20231201-0512"/>
+		<item value="org.eclipse.tm.terminal.connector.ssh.feature:11.4.0.202309142347"/>
+		<item value="org.eclipse.tm.terminal.control.feature:12.0.0.202501171425"/>
+		<item value="org.eclipse.tm.terminal.feature:11.4.0.202309142347"/>
+		<item value="org.eclipse.tm.terminal.view.feature:12.0.0.202501171425"/>
+		<item value="org.eclipse.userstorage:1.2.0.v20210517-0327"/>
+	</list>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value=""/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="D:\Documents\SEMESTRE 6\Proyecto Final IngSoft1.zip"/>
+		</list>
+	</section>
+</section>
